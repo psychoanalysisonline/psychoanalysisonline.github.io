@@ -8,6 +8,6 @@
     <p>Remote psychoanalysis and psychotherapy for adults with migrational, multilingual, and international backgrounds.</p>
     <h2>Contact</h2>
     <p>Email: <a href="mailto:psychoanalysis@verayung.com">psychoanalysis@verayung.com</a></p>
-    <p>Phone: <a href="tel:+17164274405">+1 (716) 427-4405</a></p>
+    <p>Phone: <a href="tel:+17164274405">+1 (716) 427-4405</a> <a href="tel:+49152338834945">+49 1523883494/a> </p>
 </body>
 </html>
