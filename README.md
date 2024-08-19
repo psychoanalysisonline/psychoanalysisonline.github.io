@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Psychoanalysis Online offers professional psychoanalytic therapy services. Access confidential therapy sessions remote and online.">
+<meta name="keywords" content="psychoanalysis, therapy, online therapy, remote session, mental health, counseling, psychoanalyst, 精神分析, 心理治療, 在线心理咨询, 线上心理辅导, 心理健康咨询, 心理治疗师">
+
 </head>
 <body>
     <p>Remote psychoanalysis and psychotherapy for adults with migrational, multilingual, and international backgrounds.</p>
